@@ -6,7 +6,7 @@ This project uses [Font Awesome More](http://gregoryloucas.github.com/Font-Aweso
 ## Installing gem
 
 ```ruby
-gem "font-awesome-more", :group => :assets
+gem "font-awesome-more", :group => :assets, :require => "font-awesome-more"
 ```
 
 ## How to use in less file
